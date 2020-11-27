@@ -1,0 +1,9 @@
+>>print("30 days 30 hours challenge")
+30 days 30 hours challenge
+>>> hours="thirty"
+>>> print(hours)
+thirty
+>>> quote="slow and wins the race"
+>>> print(quote[2:])
+ow and wins the race
+>>>
