@@ -1,0 +1,36 @@
+ Addition of two number is + value
+>>> def addition(a,b):
+	add=a+b;
+	print("addition of two numbers:",a+b)
+addition(60,60)
+addition of two numbers: 120
+
+Subraction of two numbers
+>>> def subraction(a,b):
+	sub=a-b
+	print("subraction of two numbers:",a-b)
+  subraction(60,60)
+subraction of two numbers: 0
+ 
+ Division of two numbers
+>>> def division(a,b):
+	div=a/b
+	print("division of two numbers:",a/b)
+division(60,60)
+division of two numbers: 1
+
+ Multiplication of two numbers 
+>>> def  multiplication(a,b):
+	mul=a*b
+	print("multipication of two numbers:",a*b)
+ multiplication(60,60)
+multipication of two numbers: 3600
+
+>>> #create a function covid()& it should accept patient name,and body temperature,by default the body temperature should be 98 degree
+
+def covid(patient_name,body_temperature):
+	print("covid 19:"+patient_name+","+body_temperature)
+covid('teena','98 degree')
+covid 19:teena,98 degree
+
+
